@@ -1,0 +1,25 @@
+This project demonstrates the implementation of a Decision Tree Classifier using a synthetically generated dataset. It is designed as a simple and clear example of supervised machine learning for classification tasks.
+
+🔍 Overview
+Generate an artificial dataset using scikit-learn's make_classification function.
+
+Preprocess and visualize the dataset.
+
+Train a Decision Tree Classifier.
+
+Evaluate the model's performance using accuracy, confusion matrix, and classification report.
+
+Visualize the decision boundaries and the tree structure.
+
+🧰 Technologies & Libraries
+Python
+
+Scikit-learn
+
+Matplotlib
+
+Seaborn
+
+NumPy
+
+Pandas
